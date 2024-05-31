@@ -3,7 +3,7 @@ Este proyecto es una página web promocional para un festival de música. Utiliz
 
 Tecnologías Utilizadas
 HTML: Para la estructura del contenido.
-SASS: Para el diseño y los estilos personalizados.
+SASS: Para el diseño y los estilos personalizados. 
 Gulp: Como herramienta de automatización de tareas.
 Características
 Diseño Responsivo: La página se adapta a diferentes dispositivos y tamaños de pantalla.
